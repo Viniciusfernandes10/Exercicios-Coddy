@@ -19,9 +19,9 @@ Documentar minha evolução na programação
 
 **Os exercícios estão divididos em três níveis:**
 
-📁 facil/  
-📁 medio/  
-📁 dificil/  
+📁 facil  
+📁 medio   
+📁 dificil  
 
 **Cada exercício contém:**
 
